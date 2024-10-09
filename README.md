@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Scope
+
+This project is for listing and deatiling the articles about job according to your background. When access the website, you could choose category do you want. There are categories "Sarjana", "Master", "SMA/SMK", "Magang", "Freelance", "Karyawan Tetap"
+
 ## Available Scripts
 
 In the project directory, you can run:
